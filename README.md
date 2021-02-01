@@ -2,10 +2,10 @@
 
 A simple quiz app created with flutter.
 ## Main Programing Topics:
-  -Pagination
-  -Navigation
-  -StatefulWidget State Management
-  -reating Custom Reusable Widgets
+  - Pagination
+  - Navigation
+  - StatefulWidget State Management
+  - Creating Custom Reusable Widgets
   
 ## Getting Started
 

@@ -6,6 +6,7 @@ A simple quiz app created with flutter.
   - Navigation
   - StatefulWidget State Management
   - Creating Custom Reusable Widgets
+  - Conditional Styling
   
 ## Getting Started
 

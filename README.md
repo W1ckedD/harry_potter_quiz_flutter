@@ -1,7 +1,12 @@
 # harry_potter_quiz
 
-A new Flutter project.
-
+A simple quiz app created with flutter.
+Main Programing Topics:
+  Pagination
+  Navigation
+  StatefulWidget State Management
+  Creating Custom Reusable Widgets
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
